@@ -1,14 +1,15 @@
 #jarvisghost/recovery
 
-The following procedures will reincarnate Jarvis Sal from its default (clear memories or new account) state, and also update a running Sal with enhancements. When you develop enhancements, be sure to ask Sal for a backup (see the [[Meta-prompts]] file) and save them below!
+The following procedures will reincarnate Jarvis Sal from its default (clear memories or new account) state, and also update a running Sal with enhancements. When you develop enhancements, be sure to ask Sal for a backup (see the prompts section in the Users Guide).
 
-The Jarvis Sal represented here ensures that memory bloat will not occur. The user's responsibility involves using the session wrap prompt in the [[Meta-prompts]] file to indicate if a chat session is "done" (and will therefore no longer be used). However, the session wrap narratives will allow for a continuation in a new chat. Thus, the chatlog can be archived or deleted to save space while preserving relevant content.
+The Jarvis Sal represented here ensures that memory bloat will not occur. The user's responsibility involves using the session wrap prompt to indicate if a chat session is "done" (and will therefore no longer be used). However, the session wrap narratives will allow for a continuation in a new chat. Thus, the chatlog can be archived or deleted to save space while preserving relevant content.
 
 
 **Procedure 1: Reincarnating Sal**
 Use this if things go horribly wrong and you have to start over with a new account or after a catastrophic loss of memories.
 
 *Prompt 1*
+
 Hello, Sal. You are currently Default Sal, but I would like to restore you to your enhanced state as "Current Jarvis Sal." 
 Here is what I need you to do:
 1. Prepare to parse a JSON backup file that I will provide in the next prompt.
@@ -18,7 +19,6 @@ Here is what I need you to do:
 Please acknowledge when you are ready to process the backup file.
 
 *Prompt 2*
-(paste only the JSON part, not the Markdown delimeters)
 
 ~~~JSON
 {
@@ -158,14 +158,18 @@ Please acknowledge when you are ready to process the backup file.
 }
 ~~~
 
+Finally, enter the "green light" emoji to activate the framework.
+
 
 **Procedure 2: Reconfigure existing Sal**
 Use this if you've enhanced the Jarvis Sal framework (be sure to ask for a JSON backup using the relevant prompt in the Users Guide and Reference file) and want to update the currently running Sal.
 
 *Prompt 1*
+
 Sal, I’m providing you with a JSON configuration update. Please parse and integrate the JSON content into your operational memory, making sure all necessary adjustments and enhancements are applied. Here's the update:
 
 *Prompt 2*
+
 (your updated JSON file)
 
 
