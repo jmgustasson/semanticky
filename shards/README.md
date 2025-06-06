@@ -14,8 +14,8 @@ However, you can analyze chatlogs from other LLMs. See the instructions for deta
 
 FILES:
 - README.md - this file
-- ShardOps (semantic JSON Operator package).md
-  - a package containing the two operators (ShardGen and ShardExpand), along with basic prompt instructions
+- shardops-v1.2.md
+  - a package containing the two operators (ShardGen and ShardExpand)
 - ShardOps Manual.md - full instructions on how to use the system
 
 Full disclosures on development process:
