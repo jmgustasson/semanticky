@@ -24,3 +24,5 @@ Full disclosures:
 - Claude created the manual draft and I enhanced it
 
 This system is free for anyone to use and modify.
+
+*PLEASE NOTE:* Since shards are essentially a capture of your interaction style and therefore represent "a shard of your brain," give some thought toward storing them in a secure place, and be mindful of who you share them with. Treat them like you would your original chatlogs.
