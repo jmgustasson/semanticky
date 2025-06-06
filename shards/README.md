@@ -14,14 +14,19 @@ However, you can analyze chatlogs from other LLMs. See the instructions for deta
 
 FILES:
 - README.md - this file
-- shardops.json (contains the two operators, ShardGen and ShardExpand)
-- shardops-doc.md (instructions on how to use)
+- ShardOps (semantic JSON Operator package).md
+  - a package containing the two operators (ShardGen and ShardExpand), along with basic prompt instructions
+- ShardOps Manual.md - full instructions on how to use the system
 
-Full disclosures:
-- I came up with the original requirements for the system and some information theory aspects
+Full disclosures on development process:
+- I came up with the original requirements for the system and the information theory aspects underlying it
 - Claude and I iterated to find the best math framework to use for the final design
 - Claude crafted the final JSON operators (this is a symmetry requirement for semantic JSON operators)
-- Claude created the manual draft and I enhanced it
+- We validated and tested the entire thing
+- Claude created the manual draft outline and I heavily edited it
+
+For more information about semantic JSON operators, see my Substack at:
+   https://substack.com/@semanticky
 
 This system is free for anyone to use and modify.
 
