@@ -17,6 +17,7 @@ FILES:
 - shardops-v1.2.md
   - a package containing the two operators (ShardGen and ShardExpand)
 - ShardOps Manual.md - full instructions on how to use the system
+- shardops-theory - how the thing was designed
 
 Full disclosures on development process:
 - I came up with the original requirements for the system and the information theory aspects underlying it
