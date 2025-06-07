@@ -16,7 +16,10 @@ FILES:
 - README.md - this file
 - shardops-v1.2.json.md - the two operators (ShardGen and ShardExpand) in Markdown format
 - ShardOps Manual.md - full instructions on how to use the system
-- shardops-theory - how the thing was collaboratively designed
+- shardops-theory.md - how the thing was collaboratively designed
+- Redesign Chatlog.md - the redesign session that led to v1.2
+- Shard of Redesign Chatlog.md - the shard from ShardGen
+- ShardExpand of Redesign Chatlog Shard.md - the ShardExpand narrative
 
 For more information about semantic JSON operators, see my Substack at:
    https://substack.com/@semanticky
