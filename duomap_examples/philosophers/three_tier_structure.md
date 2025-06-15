@@ -3,32 +3,32 @@ Claude-generated outline. I added in one that I felt was important (Montesquieu)
 ## Tier I: Philosophers by Systematic Approach
 
 **Ancient & Medieval**
-- Socrates X
-- Plato X
-- Aristotle X
-- Epicurus X
-- Epictetus x
-- Marcus Aurelius X
-- Augustine X
-- Aquinas X
-- Maimonides X
-- Averroes X
-- Anselm X
-- Duns Scotus X
-- William of Ockham X
+- Socrates
+- Plato
+- Aristotle
+- Epicurus
+- Epictetus
+- Marcus Aurelius
+- Augustine
+- Aquinas
+- Maimonides
+- Averroes
+- Anselm
+- Duns Scotus
+- William of Ockham
 
 **Early Modern**
-- Descartes X
-- Spinoza X
-- Leibniz X
-- Hobbes X
-- Locke X
-- Berkeley X
-- Hume X
-- Bacon X
-- Pascal X
-- Montaigne X
-- Montesquieu (I added this one) X
+- Descartes
+- Spinoza
+- Leibniz
+- Hobbes
+- Locke
+- Berkeley
+- Hume
+- Bacon
+- Pascal
+- Montaigne
+- Montesquieu (I added this one)
 
 **Enlightenment & German Idealism**
 - Kant
