@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Marcus Aurelius (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Marcus Aurelius (Philosophy) - Comprehensive
 
 ## Patterns
@@ -75,3 +76,4 @@ The maritime metaphor maps Marcus Aurelius's Stoic philosophy through structural
 The story's procedural elements—from dawn preparation through storm navigation to evening reflection—demonstrate how Stoic practice integrates contemplation with action. The fleet dynamics illustrate the Stoic balance between individual moral responsibility and social interconnectedness, while the distinction between essential supplies and luxury cargo embodies the crucial Stoic teaching about preferred versus absolute indifferents.
 
 This thematic consistency reveals how Marcus Aurelius conceived philosophy not as abstract theory but as practical wisdom for navigating life's inevitable challenges with virtue as the only reliable guide.
+~~~
