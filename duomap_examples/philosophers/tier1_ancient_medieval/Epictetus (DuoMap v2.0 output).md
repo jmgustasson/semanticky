@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Epictetus (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Epictetus (Philosophy) - Comprehensive
 
 ## Patterns
@@ -73,3 +74,4 @@ This castle narrative maps directly onto Epictetus's core teachings. The "inner 
 Marcus's daily practices mirror the Stoic spiritual exercises Epictetus prescribed: morning reflection corresponds to premeditatio malorum and intention-setting, while evening review reflects the practice of self-examination. The castle keeper's acceptance of storms parallels Epictetus's teaching about accepting fate and the cosmic order.
 
 The emphasis on helping other castles reflects Epictetus's social philosophy - we have duties to our roles as humans, citizens, family members, and friends. The distinction between treasures that can and cannot be stolen directly represents Epictetus's teaching about preferred indifferents versus true goods, where virtue is the only genuine good that external forces cannot touch.
+~~~
