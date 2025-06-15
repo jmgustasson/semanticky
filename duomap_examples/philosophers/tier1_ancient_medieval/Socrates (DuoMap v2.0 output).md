@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Socrates (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Socrates (Philosophy) - Comprehensive
 
 ## Patterns
@@ -85,3 +86,4 @@ The training of rookie detectives through questions rather than lectures embodie
 Sam's focus on life's fundamental questions (justice, courage, the good life) represents Socrates' central concern with **ethical inquiry** and the **care of the soul**. The detective's willingness to face consequences rather than abandon the search for truth parallels Socrates' choice of death over abandoning philosophy, embodying the principle that "the unexamined life is not worth living."
 
 The institutional resistance to Sam's methods reflects the historical charges brought against Socrates - corrupting youth and impiety - that led to his trial and execution in 399 BCE. The lasting impact on colleagues and citizens represents the enduring influence of Socratic philosophy on Western thought through the philosophical tradition he initiated.
+~~~
