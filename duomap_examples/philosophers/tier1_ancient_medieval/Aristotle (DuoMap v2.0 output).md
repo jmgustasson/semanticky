@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Aristotle (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Aristotle's Philosophy (Comprehensive)
 
 ## Patterns
@@ -138,3 +139,4 @@ The village council illustrates Aristotle's integration of ethics and politics. 
 The storyteller's practice of mimesis and catharsis reveals Aristotle's aesthetic theory - art's power to represent universal truths through particular examples and to achieve emotional purification through structured experience.
 
 Together, these narratives show how Aristotelian philosophy provides a comprehensive framework for understanding reality, knowledge, ethics, politics, and art as interconnected aspects of human flourishing within the natural world.
+~~~
