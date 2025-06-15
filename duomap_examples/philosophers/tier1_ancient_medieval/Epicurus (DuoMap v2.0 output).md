@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Epicurus (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Epicurus (Philosophy) - Comprehensive
 
 ## Patterns
@@ -75,3 +76,4 @@ The garden represents the systematic construction of conditions for human flouri
 The weed-pulling activity represents Epicurus's therapeutic philosophy aimed at eliminating disturbances. The shadow-monsters correspond to fears of divine intervention and punishment, dissolved through understanding that gods exist in perfect bliss without interfering in human affairs. The deep-hole anxiety maps to thanatophobia, resolved through recognizing that death is simply the absence of sensation - "nothing to us."
 
 The collaborative playground building reflects the Garden as both physical community and philosophical practice. Unlike other schools that emphasized individual achievement, Epicurean philosophy was inherently social, requiring friendship (philia) and mutual care. The wise gardener embodies the philosophical sage whose practical wisdom guides choices toward genuine rather than apparent goods, while the harvest festival represents the realized life of philosophical friendship - pleasure magnified through sharing rather than diminished.
+~~~
