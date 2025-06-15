@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Augustine (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Aquinas (Philosophy) - Comprehensive
 
 ## Patterns
@@ -118,3 +119,4 @@ The knight's training represents his virtue ethics, where the four cardinal virt
 The supreme ruler represents God as understood through natural reason and divine revelation, possessing all perfections in absolute unity (divine simplicity) while remaining the ultimate final cause of all existence. The various levels of court access represent different ways of knowing God: through natural reason, revealed theology, and ultimately the beatific vision.
 
 This systematic integration shows how Aquinas unified Aristotelian philosophy with Christian theology, creating a comprehensive worldview where reason and faith, natural and supernatural, individual and community, all find their proper place within a rationally ordered cosmos directed toward the ultimate good.
+~~~
