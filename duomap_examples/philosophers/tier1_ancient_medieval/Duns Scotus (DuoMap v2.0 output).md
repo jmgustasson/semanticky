@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Duns Scotus (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Duns Scotus Philosophy
 
 ## Patterns
@@ -67,3 +68,4 @@ The inheritance laws and royal protection represent Scotus's defense of the Imma
 Most significantly, the king's absolute authority over justice itself reflects Scotus's voluntarism - the position that moral law depends on divine will rather than constraining it. This doesn't make God arbitrary but shows the radical contingency of creation and the gratuitous nature of divine goodness.
 
 The architectural metaphor reinforces how Scotus saw theology as requiring precise technical distinctions (formal distinctions) while maintaining that these distinctions point to realities that transcend human comprehension. The palace blueprint methodology mirrors Scotus's approach to metaphysics: careful analysis of concepts and their relationships, leading to knowledge of the fundamental structures of reality.
+~~~
