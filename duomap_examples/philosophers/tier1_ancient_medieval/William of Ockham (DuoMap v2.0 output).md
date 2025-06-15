@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="William of Ockham (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # William of Ockham: Dual-Representation Knowledge Map
 
 ## Patterns
@@ -75,3 +76,4 @@ The distinction between "actually tasting salt" versus "reading about saltiness"
 The kitchen politics reflects Ockham's conciliar theory and political resistance to papal absolutism, while the Grand Master Chef represents his theological voluntarism—the position that moral truths depend on God's will rather than independent rational principles. His systematic approach to removing unnecessary ingredients mirrors his logical methodology that sought to eliminate metaphysical assumptions while preserving explanatory power.
 
 This structural mapping preserves the interconnected nature of Ockham's thought: how his metaphysical nominalism, epistemological empiricism, logical innovations, theological voluntarism, and political theories formed a coherent philosophical system that challenged medieval scholastic orthodoxy and laid groundwork for modern philosophical approaches.
+~~~
