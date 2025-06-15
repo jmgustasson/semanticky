@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Maimonides (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Maimonides (Philosophy) - Comprehensive
 
 ## Patterns
@@ -70,3 +71,4 @@ Finally, he promised that someday, when everyone learned to be wise and kind lik
 This narrative maps the fundamental architecture of Maimonides' philosophical system onto accessible concepts while preserving the essential logical relationships. The "wise teacher" represents Maimonides himself as the synthesizing intellect attempting to reconcile seemingly contradictory knowledge systems. The "ladder" preserves his crucial epistemological hierarchy from simple faith through philosophical demonstration to mystical apprehension. The "invisible king" maintains his sophisticated negative theology while making it comprehensible. The progression from individual understanding to cosmic restoration reflects his integration of Aristotelian perfectionism with Jewish eschatological hope.
 
 The story's movement from confusion through synthesis to ultimate harmony mirrors the Guide's own argumentative structure, while the emphasis on "good reasons" behind traditional practices reflects his revolutionary approach to halakhic rationalization. Each narrative element contains within it the philosophical complexity of Maimonides' actual positions while remaining structurally faithful to his systematic integration of reason, revelation, and tradition.
+~~~
