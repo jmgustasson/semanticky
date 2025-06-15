@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Anselm (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Anselm (Philosophy) - Comprehensive
 
 ## Patterns
@@ -72,3 +73,4 @@ This narrative maps directly onto Anselm's philosophical framework. The "perfect
 The royal architect embodies divine intellect, while the graduated palace school represents the Augustinian tradition of illumination that Anselm inherited—the idea that human understanding progresses toward divine truth through degrees of enlightenment. The harmonious court reflects Anselm's integration of faith and reason, where philosophical inquiry serves theological understanding.
 
 The crown's visibility throughout the kingdom captures Anselm's notion of necessary existence—something that exists in all possible worlds and serves as the foundation for all other existence and truth, much like his conception of God as the source of all being and meaning.
+~~~
