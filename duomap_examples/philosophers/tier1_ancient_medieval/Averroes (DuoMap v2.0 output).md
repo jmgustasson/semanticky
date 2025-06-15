@@ -3,6 +3,7 @@
 EXECUTE DuoMap with domain="Averroes (Philosophy)" depth="comprehensive"
 ~~~
 
+~~~
 # DuoMap: Averroes (Philosophy) - Comprehensive
 
 ## Patterns
@@ -95,3 +96,4 @@ This culinary academy narrative maps directly onto Averroes's sophisticated phil
 **The Correction of Previous Instructors** maps to Averroes's systematic critique of post-Aristotelian developments, particularly his refutation of Ash'arite occasionalism and his restoration of natural causation within a theistic framework.
 
 The narrative preserves the essential structure of Averroes's "double truth" theory - not as genuine contradiction, but as recognition that single truths can be accessed and expressed through multiple valid pathways, each appropriate to different levels of human intellectual capability.
+~~~
