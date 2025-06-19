@@ -1,5 +1,8 @@
 The Curriculum Walker semantic JSON operator (v4.0)
 
+FOREWARD:
+ANY SAMPLES? Yes, there are two test output sets in the v4 design directory. One set is in Markdown, and the other, in Jupyter notebook format. I'll be making more of these in the future. You can make your own, too (read on)...
+
 Ever wish you could "ramp up" quickly in a new programming domain?
 Tired of going through the slow progression of traditional learning
 texts, and can't wait to start writing real programs, but you don't
