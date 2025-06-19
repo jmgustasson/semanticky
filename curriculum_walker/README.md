@@ -24,48 +24,37 @@ the effort. And I already had an elementary competency in the language.
 
 Here's how you do it:
 
+- Copy the "CurriculumWalkerGenerator v2.0 (JSON operator).md" document to your PC.
+- Modify the EXECUTE directive at the bottom. Change the domain to what you want to learn. If you don't know the version information, remove that parameter. You can set the complexity_level to "essential", "comprehensive", or "expert". Pick which one you want.
+- Paste the entire thing into a reasoning model as a prompt. I use Claude and it works fine, but I can't speak for any other LLM.
+
+You will receive two sets of outputs.
+
 Start with the "Constitutional Constellation Reference" document.
-Type in ALL of the code yourself. Don't rush this part! Or copy and paste.
-Think about what you are typing, but don't struggle to understand it.
-If you spend more than a minute on a given notion at this phase, you'll break the rhythm.
-The purpose of this typing is to train yourself on what it feels like to program in this
-language.
+Type in ALL of the code yourself. Don't rush this part. The purpose of this typing is to train yourself on what it feels like to program in this language and start to build finger skills. Think about what you are typing, but don't struggle to understand it. If you spend more than a minute on a given notion at this phase, you'll break the rhythm. Note that the sections in the reference document are not designed to be run; that comes later. But don't skip to that yet. This typing drill section is critical. Along the way, you'll start to develop a good feel for this language, and the concepts will start to seep into your mind.
 
-Note that the sections in the reference document are not designed to be run; that comes later.
-They are *typing practice* and this part must be completed.
+When you finish this part, give yourself no more than a day of rest. You can review the stuff you typed in, if you want, or study it.
 
-Give yourself no more than a day of rest. You can review the stuff you typed in, if you want.
-And you can study it, look up things, etc.
+Then, go to the "Constellation Walker" document. This part contain optimized, runnable programs. It's best if you do this part in a Jupyter notebook, although you can run them piecemeal in your favorite Python IDE. I like Jupyter because it lets me go back and experiment with things nicely.
 
-Next, go to the "Constellation Walker" document.
-These contain optimized, runnable programs.
-It's best if you do this part in a Jupyter notebook, although you can run them piecemeal in your
-favorite Python IDE. I like Jupyter because it lets me go back and change the routines.
-
-Now's the time for studying. Try to understand what each program is doing. And, TYPE IT YOURSELF!
+Part Two is the time for studying. Try to understand what each program is doing. And, TYPE IT YOURSELF!
 This further reinforces the "muscle memory" that you must develop. Copypaste will only hurt you
-in the long run. On your first pass, you'll find that you will make little mistakes. That's okay!
-This is natural for this type of progression. Try to figure them out without looking at the original program.
-Only do that if you get truly stuck.
-Then, try tweaking the programs and adding in your own ideas to experiment.
-These programs were designed to not break if you enhance them (yeah, that can be a thing).
+in the long run. On your first pass, you may make tiny mistakes. That's okay! This is natural for this type of progression. Try to figure them out without looking at the original program. Only peek if you get truly stuck.
 
-When you finish the second half, go back and review the programs. You'll find that they are
-very simple to read now.
+After the program runs successfully, try experimenting. These programs were designed to not break if you make elementary tweaks to them (yeah, that's a real thing; it's called the "pedagogical optimization trap", where code examples become so narrowly tailored to their exact use case that they lose educational generalizability. Walker spares you of that travesty!
 
-This is the beauty of a geodesic--you don't waste any time or effort. It's all concentrated on
-the essentials. You are actually thinking harder, but you don't notice it, because you are truly
-learning, the way learning is supposed to happen.
+So... when you finish the second half, go back and review the programs. You'll find that they are
+much simple to read and understand now. This is the beauty of a "geodesic": you don't waste any time or effort. It's all concentrated on the essentials. You are thinking harder, but you don't notice it, because you are *learning*, the way learning is supposed to happen. And, if you're like me, it's a lot more FUN.
 
-Next, go dig into a programming project. It's best if you start within a day or two.
-While this walker curriculum is powerful, it's also fragile. If you wait for more than a week,
+Next, go dig into a programming project. It's best if you start within a day or two. You can do another Walker generation for packages, or pick up a book and skip past the elementary stuff. You'll have an instinct of what to dig into and what to pass over.
+
+NOTES:
+- While the walker curriculum is powerful, it's also FRAGILE. If you wait for more than a week,
 you'll lose that traction. Success and mastery in any programming language requires consistent
 practice over time. The walker curriculum gives you the initial boost up, but you still have to put
 in the work. There is no magical path to learning anything.
-
-NOTES:
-- This will work on things like NumPy, Pandas, PyTorch, but some packages don't have enough cohesion for Walker; it will tell you if this is the case.
-- Some of the comprehensive mode artifacts will get quite large (PyTorch was a beast).
-- I've not tried this on non-programming language domains.
+- Some subdomains (language packages) don't have enough internal cohesion for Walker; it will tell you if this is the case. You'll have to learn those the old fashioned way. If I can enhance Walker to tolerate these, I will do it. There's an easter egg inside the JSON operator that gives you a few domains that will work. :)
+- Some of the comprehensive mode artifacts will get quite large (PyTorch was an absolute beast, requiring many pushes of the CONTINUE button in Claude).
+- I've not tried using Walker on non-programming language domains.
 
 Enjoy!
