@@ -1,4 +1,4 @@
-The Curriculum Walker semantic JSON operator (v2.0)
+The Curriculum Walker semantic JSON operator (v4.0)
 
 Ever wish you could "ramp up" quickly in a new programming domain?
 Tired of going through the slow progression of traditional learning
@@ -15,7 +15,7 @@ needed to seed your new programming skills in that new language:
 - a nice tour of the essentials
 
 By completing both parts of the curriculum walker, you will be better
-positioned to start in on a programming project.
+positioned to start in on a programming project. The more programming languages you already know, the better this will work for you.
 
 Make no mistake! This will take work. You will be challenged from the beginning,
 because this technique compresses the essentials into a steady but graceful climb.
@@ -24,37 +24,18 @@ the effort. And I already had an elementary competency in the language.
 
 Here's how you do it:
 
-- Copy the "CurriculumWalkerGenerator v2.0 (JSON operator).md" document to your PC.
-- Modify the EXECUTE directive at the bottom. Change the domain to what you want to learn. If you don't know the version information, remove that parameter. You can set the complexity_level to "essential", "comprehensive", or "expert". Pick which one you want.
+- Copy the "CurriculumWalkerGenerator v4.0 (JSON operator).md" document to your PC.
+- Modify the EXECUTE directive at the bottom. If you don't want a Jupyter notebook as the output, remove that line.
 - Paste the entire thing into a reasoning model as a prompt. I use Claude and it works fine, but I can't speak for any other LLM.
 
-You will receive two sets of outputs.
+You will receive two output files.
 
-Start with the "Constitutional Constellation Reference" document.
-Type in ALL of the code yourself. Don't rush this part. The purpose of this typing is to train yourself on what it feels like to program in this language and start to build finger skills. Think about what you are typing, but don't struggle to understand it. If you spend more than a minute on a given notion at this phase, you'll break the rhythm. Note that the sections in the reference document are not designed to be run; that comes later. But don't skip to that yet. This typing drill section is critical. Along the way, you'll start to develop a good feel for this language, and the concepts will start to seep into your mind.
+Start with the Reference document. Type in (or retype in Jupyter) all of the code yourself. This is important. It reinforces your "Python finger memory" while you learn the basics.
 
-When you finish this part, give yourself no more than a day of rest. You can review the stuff you typed in, if you want, or study it.
+After you finish, go to the other document and retype and run all of the programs. Take your time on this part. You can follow or ignore the timeframes if you desire. But don't let too much time lapse. You're ramping up a skill pretty quickly, but it's fleeting. Consistent reinforcement is critical with this approach.
 
-Then, go to the "Constellation Walker" document. This part contain optimized, runnable programs. It's best if you do this part in a Jupyter notebook, although you can run them piecemeal in your favorite Python IDE. I like Jupyter because it lets me go back and experiment with things nicely.
+Once you finish, you'll be able to pick up a standard programming book about the topic and proceed through it much faster, as the "general map" of the domain is planted and germinating in your mind.
 
-Part Two is the time for studying. Try to understand what each program is doing. And, TYPE IT YOURSELF!
-This further reinforces the "muscle memory" that you must develop. Copypaste will only hurt you
-in the long run. On your first pass, you may make tiny mistakes. That's okay! This is natural for this type of progression. Try to figure them out without looking at the original program. Only peek if you get truly stuck.
-
-After the program runs successfully, try experimenting. These programs were designed to not break if you make elementary tweaks to them (yeah, that's a real thing; it's called the "pedagogical optimization trap", where code examples become so narrowly tailored to their exact use case that they lose educational generalizability. Walker spares you of that travesty!
-
-So... when you finish the second half, go back and review the programs. You'll find that they are
-much simple to read and understand now. This is the beauty of a "geodesic": you don't waste any time or effort. It's all concentrated on the essentials. You are thinking harder, but you don't notice it, because you are *learning*, the way learning is supposed to happen. And, if you're like me, it's a lot more FUN.
-
-Next, go dig into a programming project. It's best if you start within a day or two. You can do another Walker generation for packages, or pick up a book and skip past the elementary stuff. You'll have an instinct of what to dig into and what to pass over.
-
-NOTES:
-- While the walker curriculum is powerful, it's also FRAGILE. If you wait for more than a week,
-you'll lose that traction. Success and mastery in any programming language requires consistent
-practice over time. The walker curriculum gives you the initial boost up, but you still have to put
-in the work. There is no magical path to learning anything.
-- Some subdomains (language packages) don't have enough internal cohesion for Walker; it will tell you if this is the case. You'll have to learn those the old fashioned way. If I can enhance Walker to tolerate these, I will do it. There's an easter egg inside the JSON operator that gives you a few domains that will work. :)
-- Some of the comprehensive mode artifacts will get quite large (PyTorch was an absolute beast, requiring many pushes of the CONTINUE button in Claude).
-- I've not tried using Walker on non-programming language domains.
+I would also advise against trying to learn a second language while going through this acceleration. The two could get muddled together. Wait a month or so until the first one is firmly rooted and integrated.
 
 Enjoy!
