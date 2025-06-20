@@ -7,12 +7,13 @@ The relationship metaphor is deliberately ironic.
 1. Expand the capabilities of semantic JSON operators beyond single-shot and “extends” composition. Investigate encapsulation (uhh), persistence, and inheritance. See just how far this stuff can go
 2. Upgrade DuoMap to produce validated, stable pattern constellations and associated story narratives
 3. Finish and publish the Curriculum Walker deliverables for Python and associated packages.
-4. Continue the “Apex Blindness” investigation into the impacts of emerging technologies
-5. Modernize and publish the interactive trainer operators (Axelrod, PANOPTES, Aegis, etc) from the Sonnet 3.5 days
-6. Give serious thought to publishing the legacy story developer operators… while nascent, they demonstrate a novel way to approach story universe architecting, developing, and creative storytelling guidance (beat sheets, progressive review, etc) for professional authors and studio houses
-7. Greentext paradigm as educational tool - a powerful mode of expression that can be extended beyond traditional “chan” usage… it can be like catnip for your learning brain!
-8. Stop being a Luddite and start using MCP, for God’s sake
-9. The Speaking Coach - audio voice analysis operator for self-improvement
+4. Rearchitect Curriculum Walker (uplevel to v5.0) to generate its deliverables in Jupyter format. Turns out this isn't as easy as adding an adjunct "make Jupyter format" statement to the execution for v4.0 (drat).
+5. Continue the “Apex Blindness” investigation into the impacts of emerging technologies
+6. Modernize and publish the interactive trainer operators (Axelrod, PANOPTES, Aegis, etc) from the Sonnet 3.5 days
+7. Give serious thought to publishing the legacy story developer operators… while nascent, they demonstrate a novel way to approach story universe architecting, developing, and creative storytelling guidance (beat sheets, progressive review, etc) for professional authors and studio houses
+8. Greentext paradigm as educational tool - a powerful mode of expression that can be extended beyond traditional “chan” usage… it can be like catnip for your learning brain!
+9. Stop being a Luddite and start using MCP, for God’s sake
+10. The Speaking Coach - audio voice analysis operator for self-improvement
 
 ## Claude, You’ve Changed
 
